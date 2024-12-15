@@ -28,10 +28,28 @@ const Home = () => {
         </div>
         </div>
         <span> &nbsp;</span>
-      <span> </span>
-      <span> </span>
+      <span> &nbsp; </span>
+      <span> &nbsp;</span>
       </div>
-    
+    <div className="second-container container">
+      <h1>
+      Featured Products
+      </h1>
+      <div className="row">
+        <div className="col-lg-3">
+          <img width={"100px"} src="/images/image 1168.png" alt="" />
+        </div>
+        <div className="col-lg-3">
+          <img width={"100px"} src="/images/image 1.png" alt="" />
+        </div>
+        <div className="col-lg-3">
+          <img width={"100px"} src="/images/image 1169.png" alt="" />
+        </div>
+        <div className="col-lg-3">
+          <img width={"100px"} src="/images/image 3.png" alt="" />
+        </div>
+      </div>
+    </div>
     </div>
   );
 };
