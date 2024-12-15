@@ -7,7 +7,7 @@ const Home = () => {
         <div className="row">
           <div className="col-lg-6"></div>
           <div className="col-lg-6">
-            {/* Reference the image directly */}
+       
             <img
               src="/images/Screenshot 2024-12-14 231750.png"
               alt="Description"
